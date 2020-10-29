@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/sanity": "^0.3.11",
+    "@sanity/client": "^2.0.1",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "sanity-blocks-vue-component": "^0.1.0"
+  },
+  "devDependencies": {}
+}
